@@ -1,2 +1,3 @@
 #encoding:utf-8
-import win32com
+import sys
+r=10
